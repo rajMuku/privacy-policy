@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p><strong>Effective Date:</strong> 05-05-2025</p>
+  <p><strong>Contact Email:</strong> mymarkets.in@gmail.com</p>
+
+  <p>We respect your privacy and are committed to protecting your personal information. This Privacy Policy explains what data we collect, how we use it, and how we ensure it is kept secure.</p>
+
+  <h2>1. Information We Collect</h2>
+  <p>After login, we collect the following personal information:</p>
+  <ul>
+    <li>Name</li>
+    <li>Contact Number</li>
+    <li>Email Address (selected by the user from the device's available Gmail accounts)</li>
+    <li>Physical Address</li>
+    <li>State</li>
+  </ul>
+  <p>The email address is selected manually by the user from Gmail accounts on the device using the system's account picker. We only use this email for login/signup and identification within the app. We do not access any other Google account data such as contacts or calendar.</p>
+  <p>This information is publicly visible to other users inside the app to enable communication and identification.</p>
+
+  <h2>2. Use of Internet</h2>
+  <p>Our app requires an active internet connection . No other online activity is performed in the background.</p>
+
+  <h2>3. Data Storage and Security</h2>
+  <p>All user data is securely stored on Amazon Web Services (AWS) servers. We use MongoDB Atlas as our cloud database provider, which complies with modern industry standards for data security and protection.</p>
+
+  <h2>4. Ads and Analytics</h2>
+  <p>The app currently does not display any ads or use any third-party analytics tools. If ads are introduced in the future, this Privacy Policy will be updated accordingly.</p>
+
+  <h2>5. Data Sharing</h2>
+  <p>We do not share or sell your personal information to any third party. Your data is only accessible within the app for basic functionality like profile visibility.</p>
+
+  <h2>6. User Rights</h2>
+  <p>You have full control over your information. If you wish to delete or modify your data, please contact us at the provided email address.</p>
+
+  <h2>7. Changes to This Policy</h2>
+  <p>We may update this Privacy Policy as the app evolves. Any major updates will be communicated via the app or the Play Store listing.</p>
+</body>
+</html>
